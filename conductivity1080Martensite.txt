@@ -1,0 +1,9 @@
+#DataThief C:\Users\tonii\OneDrive\Pictures\Datathief\conductivity1080steel.png Donnerstag 29-Nov-2018 2:03:51 PM
+29.7433, 40.5676
+55.0146, 40.7401
+87.0368, 40.7447
+117.3737, 40.7489
+149.4006, 40.6689
+172.9912, 40.7568
+191.5304, 40.7593
+210.0743, 40.6775
